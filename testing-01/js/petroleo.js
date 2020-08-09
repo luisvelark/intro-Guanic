@@ -16,8 +16,9 @@ function hiddenSection() {
 
 function exchangeImg() {
   let img1 = document.getElementById("img1");
-  img1.setAttribute("src", "/img/petroleo01.jpg");
+  img1.setAttribute("src", "img/petroleo01.jpg");
 
   let img2 = document.getElementById("img2");
-  img2.setAttribute("src", "/img/petroleo02.jpg");
+  img2.setAttribute("src", "img/petroleo02.jpg");
 }
+
